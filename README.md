@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chelsea-Myers
-- 👀 I’m interested in data science education - particularly for adult and non-traditional college student learners - statistics in medicine, and the history of science.
+- 👀 I’m interested in data science education - particularly for adult and non-traditional college student learners.
 - 📫 You can reach me at chelseam@fullsail.edu or visit [my website](https://chelsea-myers.github.io/).
 
 <!---
